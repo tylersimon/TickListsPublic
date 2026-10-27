@@ -2,7 +2,7 @@
 
 *Last updated: 27 October 2026*
 
-Tick Lists is a checklist app for iPhone, Mac and Apple Watch, made by Simon Tyler (Athelstan Services), who is responsible for it under UK data protection law.
+Tick Lists is a checklist app for iPhone, Mac and Apple Watch, made by Athelstan Services, which is responsible for it under UK data protection law.
 
 ## The short version
 
@@ -49,4 +49,4 @@ If this policy changes, the new version will be posted here with a new date.
 
 ## Contact
 
-Questions: simon@athelstanservices.co.uk
+Questions: ticklists@athelstanservices.co.uk
