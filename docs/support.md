@@ -1,23 +1,23 @@
-# Tickly – Support
+# Tick Lists – Support
 
-Tickly is a simple checklist app for iPhone, Mac and Apple Watch, made by Simon Tyler (Athelstan Services).
+Tick Lists is a simple checklist app for iPhone, Mac and Apple Watch, made by Simon Tyler (Athelstan Services).
 
 ## Supported devices
 
 - **iPhone:** iOS 27 or later
 - **Mac:** macOS 27 or later, on a Mac with Apple silicon (M1 or later)
-- **Apple Watch:** watchOS 26 or later, paired with an iPhone that has Tickly installed (the watch shows the lists on your iPhone)
+- **Apple Watch:** watchOS 26 or later, paired with an iPhone that has Tick Lists installed (the watch shows the lists on your iPhone)
 
-Tickly is provided as it is, free of charge. There is no formal support service and no guaranteed response, but you're welcome to get in touch about a problem or a suggestion:
+Tick Lists is provided as it is, free of charge. There is no formal support service and no guaranteed response, but you're welcome to get in touch about a problem or a suggestion:
 
 **simon@athelstanservices.co.uk**
 
-Please include your device (iPhone, Mac or Apple Watch), its iOS, macOS or watchOS version, and the Tickly version (Settings → About).
+Please include your device (iPhone, Mac or Apple Watch), its iOS, macOS or watchOS version, and the Tick Lists version (Settings → About).
 
 ## Common questions
 
 **Where are my lists kept?**
-Each list is kept either on your device or in your own iCloud, as you choose in the list's ⋯ menu → Stored. Tickly never sends your lists to us. See the [privacy policy](privacy).
+Each list is kept either on your device or in your own iCloud, as you choose in the list's ⋯ menu → Stored. Tick Lists never sends your lists to us. See the [privacy policy](privacy).
 
 **How do I back up my lists?**
 Settings → Backup. Turn on Back Up Automatically and choose a folder (iCloud Drive is safest), or use Save a Backup… to save one now. Restore from Backup… brings them back.
