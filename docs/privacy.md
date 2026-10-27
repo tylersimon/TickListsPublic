@@ -2,7 +2,7 @@
 
 *Last updated: 27 October 2026*
 
-Tick Lists is a checklist app for iPhone, Mac and Apple Watch, made by Athelstan Services, which is responsible for it under UK data protection law.
+Tick Lists is a checklist app for iPhone, Mac and Apple Watch, made by Athelstan Services Ltd, which is responsible for it under UK data protection law.
 
 ## The short version
 

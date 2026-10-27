@@ -23,4 +23,4 @@ Tick Lists collects no data: no accounts, no ads, no tracking.
 - [Support](support)
 - [Privacy policy](privacy)
 
-© 2026 Athelstan Services
+© 2026 Athelstan Services Ltd

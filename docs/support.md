@@ -1,6 +1,6 @@
 # Tick Lists – Support
 
-Tick Lists is a simple checklist app for iPhone, Mac and Apple Watch, made by Athelstan Services.
+Tick Lists is a simple checklist app for iPhone, Mac and Apple Watch, made by Athelstan Services Ltd.
 
 ## Supported devices
 
